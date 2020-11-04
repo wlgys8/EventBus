@@ -1,0 +1,14 @@
+{
+    "name": "MS.EventBus",
+    "references": [
+        "MS.CommonUtils.Pool"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
