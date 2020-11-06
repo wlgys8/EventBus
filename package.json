@@ -1,8 +1,10 @@
 {
   "name": "com.ms.eventbus",
-  "displayName": "Eventbus",
+  "displayName": "EventBus",
   "version": "0.0.1",
-  "description": "Eventbus",
-  "keywords": [
-  ]
+  "description": "A simple event subscribe & post library for Unity",
+  "keywords": [],
+  "dependencies":{
+  	"com.ms.pool":"0.1.0"
+  }
 }
